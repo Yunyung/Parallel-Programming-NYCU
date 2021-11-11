@@ -1,6 +1,6 @@
 <div align="center">
    <h3> Parallel Programming </h3>
-   <a href="https://nycu-sslab.github.io/PP-f21/l">IOC5181, Parallel Programming @ NYCU, Fall 2021</a>
+   <a href="https://nycu-sslab.github.io/PP-f21">IOC5181, Parallel Programming @ NYCU, Fall 2021</a>
 </div>
 
 ## Author
