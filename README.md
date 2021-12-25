@@ -28,3 +28,6 @@
 **5. CUDA**
 
 **6. OpenCL**
+
+## Final Project
+Our final project is about Parallelization of Knuth-Morris-Pratt (KMP) String Matching Algorithm, our repository of final project is [here](https://github.com/wiiwu959/KMP_Parallelized). 
